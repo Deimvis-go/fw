@@ -1,6 +1,6 @@
 # fw
 
-fw (framework) — golang library that brings request and response abstractions.
+fw (framework) — golang library that brings structured request and response abstractions.
 
 ## Install
 
