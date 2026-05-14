@@ -1,5 +1,5 @@
-github.com/Deimvis-go/valid v0.1.0 h1:6b8hi7T2K9nvMhY/Tt0/RvWKfMn8hSgtDEUh55W65L8=
-github.com/Deimvis-go/valid v0.1.0/go.mod h1:4Ef5A3El5EDeoNZuvdyGVUkki02CQFqfu1nBw761rqI=
+github.com/Deimvis-go/valid v0.2.0 h1:scaYHZaAZ8NSUAzGaKKWGcymUdLbAwomOOsEmdWV4fQ=
+github.com/Deimvis-go/valid v0.2.0/go.mod h1:IOT9QH8smc3ZwqWsQ6xoJqvLnqhSsOJl4CPs+e52j3s=
 github.com/Deimvis/go-ext/go1.25 v0.1.0 h1:l5dJYyHjXUYPLQhs7TaPIJdL0u9Wvmj+nAVoWpRje44=
 github.com/Deimvis/go-ext/go1.25 v0.1.0/go.mod h1:dkOutB9nOmzLxQkH3Uh9OzR6A5EKbaZYaqUaoBzIOOQ=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=

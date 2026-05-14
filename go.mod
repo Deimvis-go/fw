@@ -3,7 +3,7 @@ module github.com/Deimvis-go/fw
 go 1.25.1
 
 require (
-	github.com/Deimvis-go/valid v0.1.0
+	github.com/Deimvis-go/valid v0.2.0
 	github.com/Deimvis/go-ext/go1.25 v0.1.0
 	github.com/stretchr/testify v1.11.1
 	go.uber.org/zap v1.27.1
