@@ -105,7 +105,7 @@ func mergeHeaders(headers ...xhttp.ConstHeader) http.Header {
 		return make(http.Header)
 	}
 	res := headers[0].Clone()
-	for i := 0; i < len(headers); i++ {
+	for i := 1; i < len(headers); i++ {
 		headers[i].Range(func(k string, vs []string) bool {
 			for _, v := range vs {
 				res.Add(k, v)
